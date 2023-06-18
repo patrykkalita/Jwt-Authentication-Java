@@ -1,18 +1,18 @@
 # Jwt-Authentication-Java
 
-Projekt implementujcy mechanizm JSON Web Token (JWT) przy uzyciu Spring Boot 3.0.
+Projekt implementujący mechanizm JSON Web Token (JWT) przy użyciu Spring Boot 3.0.
 
 
 
 ## Funkcje
-- Rejestracja i logowanie za pomoca uwierzytelniania JWT
-- Uwierzytelnianie za podstawie danej roli
+- Rejestracja i logowanie za pomocą uwierzytelniania JWT
+- Uwierzytelnianie na podstawie danej roli
 - Mechanizm wylogowania
-- Odswiezanie tokenu
-- Szyfrowanie hasla za pomoca BCrypt
+- Odswieżanie tokenu
+- Szyfrowanie hasła za pomocą BCrypt
 
 
-## Uzyte technologie
+## Użyte technologie
 - Spring Boot 3.0
 - Maven
 - JSON Web Token (JWT)
@@ -23,6 +23,6 @@ Projekt implementujcy mechanizm JSON Web Token (JWT) przy uzyciu Spring Boot 3.0
 
 ## Uruchomienie projektu
 - Sklonuj repozytorium do wybranego folderu
-- Przejdz do folderu z projektem
-- Dodaj do postgres baze o nazwie "jwt_security"
+- Przejdź do folderu z projektem
+- Dodaj do postgres bazee o nazwie "jwt_security"
 - Zbuduj i uruchom projekt
